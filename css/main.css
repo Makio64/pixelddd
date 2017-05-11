@@ -135,7 +135,7 @@ body {
   z-index: 10;
   width: 80px;
   height: 80px;
-  background-image: url("../imgs/logo-transparent-bw-small.png");
+  background-image: url("../imgs/logo.png");
   -webkit-background-size: 80px 80px;
   -moz-background-size: 80px 80px;
   background-size: 80px 80px;
